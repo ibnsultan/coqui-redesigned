@@ -1,0 +1,11 @@
+{
+    "description": "Coqui AI is a cutting-edge technology company at the forefront of speech recognition and synthesis. The aim is to empower individuals and businesses with innovative solutions that leverage the power of artificial intelligence with our ASR tools from TTS systems to fully customizable models for various applications, Coqui AI is dedicated to providing state-of-the-art tools that redefine the way we interact with and utilize voice technology.",
+
+    "vision":"<p class='mb-2'>Coqui is dedicated to open speech technology and to serving as the hub where speech researchers, developers, and practitioners congregate.</p><p>Our projects include deep learning based STT and TTS engines, a job scheduler and there is more to come.</p>",
+
+    "story": "<p class='mb-2'>In 2016 while at Mozilla the founders of Coqui noticed that speech technology was siloed in large corporations, leaving the open source world out in the cold. To remedy the situation we decided to take action!</span></p><p class='mb-1'>Over the intervening years, we built open-sourced STT and TTS engines which have been used by hundreds of thousands of people. Also, we kicked off projects open open-sourcing thousands of hours of speech training data.</span></p>",
+
+    "story_image": "https://cdn-icons-png.flaticon.com/512/10181/10181172.png",
+
+    "name": "<p class='mb-2'>We often have people ask us what&apos;s the story behind our company name, pronounced as &quot;ko-kee&quot; , coqui is frog specie native to Puerto Rico</p><p>We drew inspiration from the coqu&iacute; because the frog is well-known for being small but having a loud, clear voice. These characteristics make the coqu&iacute; nearly invisible, but easy to hear &mdash; just like the technology we are working on.</p>"
+}

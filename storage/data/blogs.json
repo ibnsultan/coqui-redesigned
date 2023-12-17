@@ -1,0 +1,32 @@
+[
+    {
+        "title": "XTTS: Open Model Release Announcement",
+        "link": "https://coqui.ai/blog/tts/open_xtts",
+        "cover": "https://coqui.ai/static/d15b4df499d6abf86da586b3608055c7/06776/blog-splash-screen-open-xtts.jpg"
+    },
+    {
+        "title": "CPML: The Coqui Public Model License",
+        "link": "https://coqui.ai/blog/tts/cpml",
+        "cover": "https://coqui.ai/static/95147f88f6282685efce07272449eb2b/dbdff/blog-cpml.jpg"
+    },
+    {
+        "title": "Coqui the Polyglot",
+        "link": "https://coqui.ai/blog/tts/coqui_the_polyglot",
+        "cover": "https://coqui.ai/static/996c3b050004be8d840f33c6e77e618e/91cba/blog-splash-screen-coqui-the-polyglot.png"
+    },
+    {
+        "title": "Elevate Your Voice Acting Game with Innovative AI Technology",
+        "link": "https://coqui.ai/blog/tts/unleashing_creativity",
+        "cover": "https://coqui.ai/static/017c0402c7d380a05b72d05d8b3d8b4b/91cba/blog-splash-screen-unleashing-creativity.png"
+    },
+    {
+        "title": "Zero Learning Curve, Infinite Creative Possibilities",
+        "link": "https://coqui.ai/blog/tts/unleashing_your_vision",
+        "cover": "https://coqui.ai/static/96bf5a987d03630afd29ef41f2bbdbaa/91cba/blog-splash-screen-unleashing-your-vision.png"
+    },
+    {
+        "title": "Unleashing Soundscapes: The Future is Now",
+        "link": "https://coqui.ai/blog/tts/unleashing_soundscapes",
+        "cover": "https://coqui.ai/static/27364c0034dc15bd32c6fe1436db549b/91cba/blog-splash-screen-unleashing-soundscapes.png"
+    }
+]

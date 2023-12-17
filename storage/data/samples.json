@@ -1,0 +1,38 @@
+[
+    
+    {
+        "name": "Jenny Wilson",
+        "avatar": "/assets/images/voice/three.png",
+        "role": "Podcaster",
+        "audio": "/assets/audio/sample/JennyWillson.wav",
+        "bg": "voice-bg-one"
+    },
+    {
+        "name": "Aaron George",
+        "avatar": "/assets/images/voice/two.png",
+        "role": "Educator",
+        "audio": "/assets/audio/sample/AaronDreschner-fae8e1644be598e3a524497c17aee714.wav",
+        "bg": "voice-bg-three"
+    },
+    {
+        "name": "Zofija Kendrick",
+        "avatar": "/assets/images/voice/six.png",
+        "role": "Marketing Specialist",
+        "audio": "/assets/audio/sample/ZofijaKendrick-6cbca95269b43a348d8d730122dec07f.wav",
+        "bg": "voice-bg-two"
+    },
+    {
+        "name": "Xavier Hayasaka",
+        "avatar": "/assets/images/voice/four.png",
+        "role": "Corporate Executive",
+        "audio": "/assets/audio/sample/XavierHayasaka-67bdfcfbf364f72d27a246f5bf4fd295.wav",
+        "bg": "voice-bg-four"
+    },
+    {
+        "name": "Nina Thompson",
+        "avatar": "/assets/images/voice/one.png",
+        "role": "Call Center Operator",
+        "audio": "/assets/audio/sample/UtaObando-8d108d07aa28bc2a4c7c82ecd9e52798.wav",
+        "bg": "voice-bg-five"
+    }
+]

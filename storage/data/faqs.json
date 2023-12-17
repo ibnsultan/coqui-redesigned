@@ -1,0 +1,50 @@
+[
+    {   "id": "1",
+        "q": "How do I buy an XTTS Commercial License?",
+        "a": "Here's the checkout link."
+    },
+    {
+        "q": "Is this a one-time $365 or $1 per day purchase?",
+        "a": "One-time $365. That covers you for 1-year."
+    },
+    {
+        "id": "2",
+        "q": "Which XTTS versions does the license cover?",
+        "a": "All versions released to-date (v1.x, v2.x), plus any new versions released while your license is active."
+    },
+    {
+        "id": "3",
+        "q": "Can I sell content that I produced after the license finishes?",
+        "a": "Yes. If you make an audiobook today with XTTS, you can sell that audiobook even after your XTTS license expires."
+    },
+    {
+        "id": "4",
+        "q": "Do I need the license if my use-case isn't commercial?",
+        "a": "Nope. If you're using XTTS non-commercially, it's free. You're already covered under the default license (the Coqui Public Model License)."
+    },
+    {
+        "id": "5",
+        "q": "Is this licensing for unlimited web-based SaaS API usage or is the license for self-hosting / on-premise / locally running the model?",
+        "a": "It's a bring-your-own GPU deal. You can run XTTS on your servers, on a macbook, on a desktop computer... wherever you want. While you have an active license, they're your model weights, you run them where you want."
+    },
+    {
+        "id": "6",
+        "q": "If I fine-tune a model, is that covered under the same license?",
+        "a": "Yes. A fine-tuned model is covered under the XTTS commercial license. However, like the base XTTS model, you will always need a license to use any fine-tuned model commercially."
+    },
+    {
+        "id": "7",
+        "q": "Does the license come with dedicated support?",
+        "a": "No. However, if you need dedicated support, we're happy to talk about that under a custom licensing@coqui.ai"
+    },
+    {
+        "id": "8",
+        "q": "Does the license cover shipping the model to customer's computers? Like a videogame that runs locally on the gamer's desktop?",
+        "a": "Yes. But you'll need an active license for your users to upgrade to XTTS new releases."
+    },
+    {
+        "id": "9",
+        "q": "My company isn't generating revenue yet, do we qualify for the license?",
+        "a": "Maybe. If you have both under $1M USD in annual revenue and under $1M USD in funding, then you quality. If you are over that bar, we're happy to talk about a custom commercial license: licensing@coqui.ai"
+    }
+]

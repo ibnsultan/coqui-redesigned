@@ -1,0 +1,104 @@
+@extends('layouts.public.app')
+@section('content')
+
+    <section class="section cmn-banner">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="cmn-banner__content wow fadeInUp" data-wow-duration="600ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 600ms; animation-delay: 300ms; animation-name: fadeInUp;">
+                        <h3 class="h3 text-dark mb-2">Contact US</h3>
+                        <h4 class="h4 text-muted">Even the tinyest thought matters</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="anime">
+            <img src="assets/images/anime-one.png" alt="Image" class="one">
+            <img src="assets/images/anime-two.png" alt="Image" class="two">
+        </div>
+    </section>
+
+    <section class="section contact-main">
+        <div class="container">
+            <div class="row items-gap align-items-center">
+                <div class="col-12 col-lg-6 col-xxl-5">
+                    <div class="contact-main__content wow fadeInUp" data-wow-duration="600ms" data-wow-delay="300ms">
+                        <h2 class="h3">
+                            Have something in mind?
+                            <span>Let's talk.</span>
+                        </h2>
+                        <p>
+                            We are here to answer any questions you may have about our
+                            experiences. Reach out to us and we'll respond as soon as we can.
+                        </p>
+                        <div class="arrow">
+                            <img src="assets/images/arrow-contact.png" alt="Image">
+                        </div>
+                        <div class="cta-contact">
+                            <a href="tel:223-087-9756">
+                                Dial our Line
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                            <span>OR</span>
+                            <a href="mailto:support@coqui.ai">
+                                Compose an Email
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-xxl-6 offset-xxl-1">
+                    <div class="contact-main__form wow fadeInUp" data-wow-duration="600ms" data-wow-delay="300ms">
+                        <form action="#" method="post">
+                            <div class="group-input wow fadeInUp" data-wow-duration="600ms" data-wow-delay="600ms">
+                                <input
+                                    type="text"
+                                    name="contact-name"
+                                    id="contactName"
+                                    placeholder="enter full name"
+                                >
+                            </div>
+                            <div class="group-input wow fadeInUp" data-wow-duration="600ms" data-wow-delay="900ms">
+                                <input
+                                    type="email"
+                                    name="contact-email"
+                                    id="contactEmail"
+                                    placeholder="enter Your Email"
+                                >
+                            </div>
+                            <div class="group-input wow fadeInUp" data-wow-duration="600ms" data-wow-delay="1200ms">
+                                <select class="subject">
+                                    <option data-display="Select Subject">
+                                        Select Subject
+                                    </option>
+                                    <option value="1">License</option>
+                                    <option value="2">Partnership</option>
+                                    <option value="3">General</option>
+                                </select>
+                            </div>
+                            <div class="group-input wow fadeInUp" data-wow-duration="600ms" data-wow-delay="1500ms">
+                                <textarea name="contact-message" id="contactMessage" placeholder="Write a message"></textarea>
+                            </div>
+                            <div class="group-radio">
+                                <input type="checkbox" name="contact-check" id="contactCheck">
+                                <label for="contactCheck">
+                                    I accept your terms & conditions
+                                </label
+                            >
+                            </div>
+                            <div class="form-cta justify-content-start">
+                                <button type="submit" class="btn btn--nonary">
+                                    Send Message
+                                    <i class="fa-solid fa-paper-plane"></i>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    @include('layouts.public.partials.subscribe')
+
+@endsection

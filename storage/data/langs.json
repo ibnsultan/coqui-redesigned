@@ -1,0 +1,13 @@
+[
+    {"name": "English", "flag": "/assets/images/flag/uk.png", "code": "en"},
+    {"name": "Turkish", "flag": "/assets/images/flag/turkish.png", "code": "tr"},
+    {"name": "Italian", "flag": "/assets/images/flag/italy.png", "code": "it"},
+    {"name": "French", "flag": "/assets/images/flag/french.png", "code": "fr"},
+    {"name": "Japanese", "flag": "/assets/images/flag/japan.png", "code": "ja"},
+    {"name": "Chinese", "flag": "/assets/images/flag/china.png", "code": "zh"},
+    {"name": "Hindi", "flag": "/assets/images/flag/india.png", "code": "hi"},
+    {"name": "Bengali", "flag": "/assets/images/flag/bangladesh.png", "code": "bn"},
+    {"name": "Malay", "flag": "/assets/images/flag/malay.png", "code": "ms"},
+    {"name": "Filipino", "flag": "/assets/images/flag/filipine.png", "code": "fil"},
+    {"name": "Portuguese", "flag": "/assets/images/flag/portugal.png", "code": "pt"}
+]

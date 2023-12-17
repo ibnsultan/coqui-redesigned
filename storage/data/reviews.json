@@ -1,0 +1,30 @@
+[
+    {
+        "stars": "⭐⭐⭐⭐⭐",
+        "name": "John Doe",
+        "role": "CEO, Acme Inc.",
+        "review": "We've been using XTTS for our audio content production, and it's been a game-changer for us. The voice quality is exceptional, and the flexibility to run it on various platforms makes it incredibly convenient. Our team is impressed with the results, and it has significantly boosted our productivity.",
+        "avatar": "/assets/images/teams/four.png"
+    },
+    {
+        "stars": "⭐⭐⭐⭐⭐",
+        "name": "Alice Smith",
+        "role": "Content Creator",
+        "review": "As a content creator, XTTS has revolutionized the way I produce audiobooks. The licensing model is fair, and the ability to sell content even after the license expires is a huge plus. The fine-tuning feature adds another layer of customization, making it a versatile tool for anyone in the industry.",
+        "avatar": "/assets/images/teams/one.png"
+    },
+    {
+        "stars": "⭐⭐⭐⭐⭐",
+        "name": "David Williams",
+        "role": "Tech Enthusiast",
+        "review": "Impressive technology! I've experimented with various text-to-speech solutions, and XTTS stands out. The self-hosting flexibility is a key selling point for me. Running it on my local machine gives me control, and the results are consistently high-quality. Kudos to the team behind this innovation!",
+        "avatar": "/assets/images/teams/six.png"
+    },
+    {
+        "stars": "⭐⭐⭐⭐⭐",
+        "name": "Emily Rodriguez",
+        "role": "Startup Founder",
+        "review": "XTTS has been a valuable asset for our startup. The licensing terms accommodate early-stage companies like ours, and the support for local deployment aligns perfectly with our tech stack. The ability to ship the model to our users enhances the overall user experience. Highly recommended!",
+        "avatar": "/assets/images/teams/five.png"
+    }
+]

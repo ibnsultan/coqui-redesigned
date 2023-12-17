@@ -1,0 +1,19 @@
+<?php
+
+# command line tool (beta)
+
+require_once('vendor/autoload.php');
+
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__, '.env');
+$dotenv->safeLoad();
+
+$whoops = new Whoops\Run();
+$errorPage = new Whoops\Handler\PlainTextHandler();
+
+$whoops->pushHandler($errorPage);
+$whoops->register();
+
+require_once('bin/engine.php');
+preload('bin');
+
+load('Maestro')->run();
